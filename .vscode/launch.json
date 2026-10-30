@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "SpringRestWithAiApplication",
+      "request": "launch",
+      "mainClass": "vn.hoidanit.springrestwithai.SpringRestWithAiApplication",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "SpringRestWithAiApplication",
+      "request": "launch",
+      "mainClass": "vn.hoidanit.springrestwithai.SpringRestWithAiApplication",
+      "projectName": "spring-rest-with-ai",
+      "cwd": "${workspaceFolder}/01-hoidanit-spring-rest-with-ai-final-332a96b4a61904aed1f895b1ee615d1dbb7e6cb2"
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-SpringRestWithAiApplication<spring-rest-with-ai>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}/01-hoidanit-spring-rest-with-ai-final-332a96b4a61904aed1f895b1ee615d1dbb7e6cb2",
+      "mainClass": "vn.hoidanit.springrestwithai.SpringRestWithAiApplication",
+      "projectName": "spring-rest-with-ai",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
